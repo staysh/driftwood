@@ -1,0 +1,3 @@
+[submodule "multipass"]
+	path = multipass
+	url = git@github.com:scanner-darkly/multipass.git
